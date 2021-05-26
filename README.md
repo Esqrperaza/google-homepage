@@ -1,4 +1,5 @@
-//This is my first project
-//with this i hope to firhter continue my
-//coding skills and gain more knowledge
-//eventually getting a job as a software engineer.
+I learned a lot of things 
+I wasnt sure I could pull off on my own.
+The learning does provide a base of knowledge, 
+but its not until I figured it out, that i knew
+what I was doing.
